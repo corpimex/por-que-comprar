@@ -1,0 +1,19 @@
+{
+    "name": "por-que-comprar",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a por-que-comprar",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/corpimex/por-que-comprar.git"
+    },
+    "author": "Corpimex",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://inuchat.net/es/comprar-gmc-terrain-usado/"
+    },
+    "homepage": "https://inuchat.net/es/comprar-gmc-terrain-usado/"
+}
